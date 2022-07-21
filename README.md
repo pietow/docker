@@ -1,5 +1,9 @@
 # docker
 
+###Install docker
+
+>./install.sh
+
 ###docker Permission
 
 >sudo groupadd docker
